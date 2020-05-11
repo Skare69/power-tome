@@ -1,2 +1,3 @@
-# power-tome
- A collection of my PowerShell scripts.
+# Power Tome
+ 
+A collection of my (mostly PowerShell) scripts.

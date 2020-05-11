@@ -1,0 +1,1 @@
+ii ([Environment]::GetFolderPath('Startup')) #or use run command Windows+R and "shell:startup"
